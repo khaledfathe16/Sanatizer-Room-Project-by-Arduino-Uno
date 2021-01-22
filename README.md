@@ -7,3 +7,4 @@ Project Requirement :
 -5-Pumb 
 -6- 7-segment Display
 -7- Led's
+-8-Buzzer
